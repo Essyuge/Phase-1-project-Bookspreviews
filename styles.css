@@ -98,7 +98,7 @@ background-color: #fb8b24;
   
 
 }
-/* 
+
 .a ,.b, .c ,.d{
   margin: 100px;
       border-style: solid;
@@ -111,7 +111,7 @@ background-color: #fb8b24;
       align-items: center;
       transition: 0.3s;
 
-} */
+}
 
 .card {
   display: flex;
