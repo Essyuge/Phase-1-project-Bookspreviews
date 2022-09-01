@@ -11,6 +11,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
+  
   /* color: saddlebrown; */
 }
 
@@ -171,20 +172,22 @@ img {
 
 .spacing{
   margin-right:14px;
+  font-family: sans-serif;
+  
 }
 
 button{
   font-size:15px;
   padding:0px;
   border:none;
-  color:blueviolet;
+  color: black;
 }
 
 button:hover{
-  background-color:red;
-  color: black;
-  padding:4px;
-  border-radius:10px;
+  background-color: darkolivegreen;
+  
+  padding:6px;
+  border-radius:14px;
 }
 
 a {
