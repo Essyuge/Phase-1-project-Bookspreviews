@@ -38,6 +38,13 @@ document.addEventListener('DOMContentLoaded',getBooks())
         
               })
             })
+            .then(res => res.json())
+            .then((new_book) => {
+              let listBooks = renderBook(new_book)
+              listBooks.append(listBooks)
+            })
+        }	 
+      
         
     
 	
