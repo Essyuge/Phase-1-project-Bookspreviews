@@ -29,6 +29,14 @@
 
 ### https://github.com/Essyuge/Phase-1-project-Fav-Book
 
+## Back-End REST API
+
+### URL https://silken-sky-comma.glitch.me/books
+
+## Website link
+
+### URL https://short-evening-shop.glitch.me/
+
 ## Technologies Used
 
 ### HTML, CSS, JAVASCRIPT

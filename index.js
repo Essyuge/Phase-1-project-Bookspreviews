@@ -1,3 +1,5 @@
+
+
 document.addEventListener('DOMContentLoaded',getBooks())
 
   let listBooks=document.getElementById('results');
@@ -9,7 +11,7 @@ document.addEventListener('DOMContentLoaded',getBooks())
   form.addEventListener('submit', event => {
 	event.preventDefault();
 	postBook(event.target)
-	console.log(event.target)
+	// console.log(event.target)
 	event.target.name.value=""
 	event.target.author.value=""
 	event.target.image.value=""
