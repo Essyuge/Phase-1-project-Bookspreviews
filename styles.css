@@ -12,3 +12,17 @@ body {
     background-position: center center;
     color:darkorange;
   }
+  header{
+    /*background-color: rgb(180, 158, 180);
+    height: 100%;
+    padding:20px; */
+    margin-top: 1em;
+    color: orange;
+  } 
+  
+  h1{
+    text-align: center;
+    margin-bottom: 0.5em;
+   
+  }
+  
