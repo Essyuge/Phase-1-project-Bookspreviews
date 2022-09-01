@@ -9,4 +9,10 @@ document.addEventListener('DOMContentLoaded',getBooks())
 	event.preventDefault();
 	postBook(event.target)
 	console.log(event.target)
+        event.target.name.value=""
+        event.target.author.value=""
+        event.target.image.value=""
+        event.target.subtitle.value=""
+        
+      })
 	
