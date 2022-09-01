@@ -152,4 +152,31 @@ body {
      margin-right: 10px;
      border-radius: 7px;
    }
+   .spacing{
+    margin-right:14px;
+  }
+  
+  button{
+    font-size:15px;
+    padding:0px;
+    border:none;
+    color:blueviolet;
+  }
+  
+  button:hover{
+    background-color:red;
+    color: black;
+    padding:4px;
+    border-radius:10px;
+  }
+  
+  a {
+    text-decoration: none !important;
+    color: brown;
+  }
+  
+  a:hover{
+    text-decoration:underline !important;;
+    
+  }
    
