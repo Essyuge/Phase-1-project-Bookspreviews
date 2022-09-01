@@ -7,7 +7,7 @@
 
 ## Project Description.
 
-### It's Website that users can use to add or delete books as they wish.
+### It's a single page Web Application that users can use to add or delete books as they wish.
 
 ## Project Setup Instructions
 
@@ -36,6 +36,7 @@
 ## Contact  Information
 
 ### Reach out to me via my personal e-mail ugeesther@gmail.com
+## 
 ## License
-### CC BY-NP
+### CC BY 25 2.0 licence
 
