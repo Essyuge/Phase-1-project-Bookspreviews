@@ -15,4 +15,8 @@ document.addEventListener('DOMContentLoaded',getBooks())
         event.target.subtitle.value=""
         
       })
+      function getBooks(){
+        fetch("https://silken-sky-comma.glitch.me/books")
+        
+    
 	
