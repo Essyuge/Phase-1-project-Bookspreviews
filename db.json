@@ -1,0 +1,156 @@
+{"books": [
+    {
+    "id":1,
+    "name": "JavaScript: The Good Parts",
+    "image_url":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834793i/2998152.jpg",
+    "url":"https://www.goodreads.com/book/show/2998152-javascript?from_search=true&from_srp=true&qid=XaNNRgBSPy&rank=1",
+    "author":"Douglas Crockford",
+    "description":"This authoritative book scrapes away these bad features to reveal a subset of JavaScript that's more reliable, readable, and maintainable than the language as a whole--a subset you can use to create truly extensible and efficient code.",
+    "reviews":["Returning to serious JS programming after a long hiatus.",
+    "Crockford's book is already considered one of the classic JS books and I agree"]
+    } ,
+    
+    {
+    "book_id":2,
+    "name":"Eloquent JavaScript: A Modern Introduction to Programming",
+    "image_url":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1308260856i/8910666.jpg",
+    "url":"https://www.goodreads.com/book/show/8910666-eloquent-javascript?from_search=true&from_srp=true&qid=XaNNRgBSPy&rank=2",
+    "author":"Marijn Haverbeke",
+    "description":"Eloquent JavaScript goes beyond the cut-and-paste scripts of the recipe books and teaches you to write code that's elegant and effective. You'll start with the basics of programming, and learn to use variables, control structures, functions, and data structures. Then you'll dive into the real JavaScript artistry: higher-order functions, closures, and object-oriented programming.",
+    "reviews":["This might be a great book"]
+    } ,
+    {
+    "id":"3",
+    "name":"JavaScript and jQuery: Interactive Front-End Web Development",
+    "image_url":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1308260856i/8910666.jpg",
+    "url":"https://www.goodreads.com/book/show/16219704-javascript-and-jquery?from_search=true&from_srp=true&qid=XaNNRgBSPy&rank=3",
+    "author":"Jon Duckett",
+    "description":"If you're looking to create more enriching web experiences and express your creativity through code, then this is the book for you.",
+    "reviews":["It may not be as technical as your other javascript/jquery books, but it really inspires"]
+    } ,
+    
+    {
+        "id": 4,
+    "name":"JavaScript: The Definitive Guide",
+    "image_url":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347652925i/148050.jpg",
+    "url":"https://www.goodreads.com/book/show/148050.JavaScript?from_search=true&from_srp=true&qid=XaNNRgBSPy&rank=4",
+    "author":"David Flanagan",
+    "description":"This Fifth Edition is completely revised and expanded to cover JavaScript as it is used in today's Web 2.0 applications. This book is both an example-driven programmer's guide and a keep-on-your-desk reference, with new chapters that explain everything you need to know to get the most out of JavaScript,",
+    "reviews":["This book has been on my shelf for five years. I use it every week"]
+    } ,
+    
+    
+    {
+    "id":5,
+    "name":"A Smarter Way to Learn JavaScript: The new approach that uses technology to cut your effort in half",
+    "image_url":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386626820i/19319366.jpg",
+    "url":"https://www.goodreads.com/book/show/19319366-a-smarter-way-to-learn-javascript?from_search=true&from_srp=true&qid=XaNNRgBSPy&rank=7",
+    "author":"Mark Myers",
+    "description":"Extra help through the rough spots so you're less likely to get stuck. Tested on non-coders—including the author's technophobe wife. Become fluent in all the JavaScript fundamentals, in half the time",
+    "reviews":["This is a great book for beginners who don't have any programming experience, for it is very simple and straightforward",
+    "This is a great first book for someone who knows absolutely nothing about JavaScript"]
+    },
+    {
+    "id":6,
+    "name":"Web Design with Html, Css, JavaScript and Jquery Set",
+    "image_url":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1393784856i/20666969.jpg",
+    "url":"https://www.goodreads.com/book/show/20666969-web-design-with-html-css-javascript-and-jquery-set?from_search=true&from_srp=true&qid=XaNNRgBSPy&rank=8",
+    "author":"Jon Duckett",
+    "description":"This two-book set combines the titles HTML & CSS: Designing and Building Web Sites and JavaScript & jQuery: Interactive Front-End Development. Together these two books form an ideal platform for anyone who wants to master HTML and CSS before stepping up to JavaScript and jQuery.",
+    "reviews":["This is the set I wish I had started with!",
+    "This is the set I wish I had started with!",
+    "This is the set I wish I had started with!"]
+    },
+    
+    {
+    "id":7,
+    "name":"High Performance JavaScript",
+    "image_url":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834985i/7008656.jpg",
+    "url":"https://www.goodreads.com/book/show/7008656-high-performance-javascript?from_search=true&from_srp=true&qid=XaNNRgBSPy&rank=10",
+    "author":"Nicholas C. Zakas",
+    "description":"If you're like most developers, you rely heavily on JavaScript to build interactive and quick-responding web applications. The problem is that all of those lines of JavaScript code can slow down your apps. This book reveals techniques and strategies to help you eliminate performance bottlenecks during development.",
+    "reviews":["Slightly out-dated but good otherwise.",
+    "A disappointment, but mostly due to its age."]
+    },
+    
+    {
+    "id": 8,
+    "name":"The Principles of Object-Oriented JavaScript",
+    "image_url":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1392225080i/20799234.jpg",
+    "url":"https://www.goodreads.com/book/show/20799234-the-principles-of-object-oriented-javascript?from_search=true&from_srp=true&qid=XaNNRgBSPy&rank=12",
+    "author":"Nicholas C. Zakas",
+    "description":"If you've used a more traditional object-oriented language, such as C++ or Java, JavaScript probably doesn't seem object-oriented at all. It has no concept of classes, and you don't even need to define any objects in order to write code. But don't be fooled—JavaScript is an incredibly powerful and expressive object-oriented language that puts many design decisions right into your hands",
+    "reviews":["JavaScript is a rather strange language",
+    "If you're interested in how the flexible JavaScript supports Object-Oriented programming, and want an in depth, practical guide, this book is a fantastic read."
+    ]
+    },
+    
+    {
+    "id":9,
+    "name":"Learning PHP, MySQL, and JavaScript: A Step-By-Step Guide to Creating Dynamic Websites",
+    "image_url":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328834683i/6755260.jpg",
+    "url":"https://www.goodreads.com/book/show/6755260-learning-php-mysql-and-javascript?from_search=true&from_srp=true&qid=XaNNRgBSPy&rank=14",
+    "author":"Robin Nixon",
+    "description":"If you know HTML, this guide will have you building interactive websites quickly. You'll learn how to create responsive, data-driven websites with PHP, MySQL, and JavaScript, regardless of whether you already know how to program. Discover how the powerful combination of PHP and MySQL provides an easy way to build modern websites complete with dynamic data and user interaction. You'll also learn how to add JavaScript to create rich Internet applications and websites.",
+    "reviews":["This was a helpful book for a beginner in PHP and MySQL",
+    "As part of a coding class, I had to learn HTML, CSS, PHP, MySQL, and JavaScript in 8 weeks"
+    ]
+    },
+    
+    
+    {
+    "id":10,
+    "name":"If Hemingway Wrote JavaScript",
+    "image_url":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1411952988i/21487480.jpg",
+    "url":"https://www.goodreads.com/book/show/21487480-if-hemingway-wrote-javascript?from_search=true&from_srp=true&qid=XaNNRgBSPy&rank=16",
+    "author":"Angus Croll",
+    "description":"The best authors are those who obsess about language--and the same goes for JavaScript developers. To master either craft, you must experiment with language to develop your own style, your own idioms, and your own expressions. To that end, If Hemingway Wrote JavaScript playfully bridges the worlds of programming and literature for the literary geek in all of us.",
+    "reviews":["The best authors are those who obsess about language--and the same goes for JavaScript developers. To master either craft, you must experiment with language to develop your own style, your own idioms, and your own expressions. To that end, If Hemingway Wrote JavaScript playfully bridges the worlds of programming and literature for the literary geek in all of us."]
+    },
+    {
+    "id":11,
+    "name":"Professional JavaScript for Web Developers",
+    "image_url":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1172064302i/135437.jpg",
+    "url":"https://www.goodreads.com/book/show/135437.Professional_JavaScript_for_Web_Developers?from_search=true&from_srp=true&qid=XaNNRgBSPy&rank=17",
+    "author":"Nicholas C. Zakas",
+    "description":"Dispels the myth that JavaScript is a 'baby' language and demonstrates why it is the scripting language of choice used in the design of millions of Web pages and server-side applications Quickly covers JavaScript basics and then moves on to more advanced topics such as object-oriented programming, XML, Web services, and remote scripting Addresses the many issues that Web application developers face, including internationalization, security, privacy, optimization, intellectual property issues, and obfuscation Builds on the reader's basic understanding of HTML, CSS, and the Web in general",
+    "reviews":["Probably the most in depth Javascript book ever written !!",
+        "I haven't read many programming books but this one is best so far" ]
+    
+    },
+    {
+    "id":12,
+    "name":"Head First JavaScript Programming",
+    "image_url":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1368812403i/17912853.jpg",
+    "url":"https://www.goodreads.com/book/show/17912853-head-first-javascript-programming?from_search=true&from_srp=true&qid=XaNNRgBSPy&rank=18",
+    "author":"Eric Freeman",
+    "description":"Learning a programming language is no easy task, you might be having a good time while you're learning JavaScript, but you're still learning all the serious stuff. Like how functions and objects work, what a callback is, how to interact with the web page using the Document Object Model, how to use arrays, and even what a closure is",
+    "reviews":["Learning a programming language is no easy task",
+    "This one keeps the beginner-friendly attitude, while tackling JavaScript's mostly misunderstood perks"
+    
+    ]
+    },
+    {
+    "id":13,
+    "name":"Learn JavaScript VISUALLY with Interactive Exercises: The Beautiful New Way to Learn a Programming Language",
+    "image_url":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1404619084i/22668194.jpg",
+    "url":"https://www.goodreads.com/book/show/22668194-learn-javascript-visually-with-interactive-exercises?from_search=true&from_srp=true&qid=XaNNRgBSPy&rank=19",
+    "author":"Ivelin Demirov",
+    "description":"It's a beautifully illustrated full-color JavaScript book that teaches the fundamentals through Metaphors, Analogies and Easy Interactive Exercises.(Works on PC, Mac, iPad, other tablets",
+    "reviews":[
+        "This book certainly has some good explanation but it isn't readily available. Skip this, you won't regret anything"
+    ]
+    },
+    {
+    "id":"14",
+    "name":"JavaScript and HTML5 Now",
+    "image_url":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1346500022i/15979777.jpg",
+    "url":"https://www.goodreads.com/book/show/15979777-javascript-and-html5-now?from_search=true&from_srp=true&qid=XaNNRgBSPy&rank=20",
+    "author":"Kyle Simpson",
+    "description":"Author Kyle Simpson (HTML5 Cookbook) shows you how JavaScript unlocks the power of all of the new functionality in HTML5, giving web applications the capabilities developers have wanted for years. These technologies now provide the raw tools you need in the presentation layer to replace everything you used to do with Flash.",
+    "reviews":[ "short but sweet. this concise book wets your appetite for HTML possibilities. if you're wondering what all the hype is about take a quick look at this HTML 5 overview",
+    "Just a few pages, but an excellent short history of HTML and Javascript, other short-lived solutions like Flash and Silverlight, major component of HTML5, and where it's headed"
+    ]
+    }
+    ]
+    }
