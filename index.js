@@ -17,6 +17,13 @@ document.addEventListener('DOMContentLoaded',getBooks())
       })
       function getBooks(){
         fetch("https://silken-sky-comma.glitch.me/books")
+        .then(response => response.json())
+        .then(books => {books.map(book => {
+              renderBook(book)
+            })
+          })
+    }
+    
         
     
 	
