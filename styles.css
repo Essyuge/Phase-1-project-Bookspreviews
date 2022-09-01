@@ -43,4 +43,113 @@ body {
      font-size: medium;
      border-radius:15px;
    }
+   form{
+    margin-top: 0%;
+    margin-bottom:15%;
+    margin-left:27%;
+   
+   }
+   
+   .btn{
+    background-color: antiquewhite;
+    border:1px;
+   
+   }
+   
+   .btn:hover{
+    background-color:burlywood;
+    border:none;
+   
+   }
+   
+   #button {
+     width: 7em;
+     height: 3em;
+     font-size: medium;
+     border:1px;
+     border-radius:15px;
+   }
+   
+   #button:hover {
+   background-color: #fb8b24;
+   }
+   
+   #results {
+     margin-top:25%;
+     display:flex;
+     flex-wrap: wrap;
+     justify-content: center;
+   
+   }
+   
+   .a ,.b, .c ,.d{
+     margin: 100px;
+         border-style: solid;
+         border-width: 1px;
+         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+         height: 100px;
+         border-radius: 10px;
+         border-color: white;
+         width: 1300px;
+         align-items: center;
+         transition: 0.3s;
+   
+   }
+   
+   .card {
+     display: flex;
+     flex-direction: row;
+     background-color: #edf2f4;
+     color: black;
+     font-style: italic;
+     justify-content:space-around;
+     width: 45%;
+     font-size: smaller;
+     padding-left:45px;
+     padding-right:20px;
+     text-align:center;
+     margin-top:15px;
+     margin-left:30px;
+     margin-bottom:15px;
+     border:none;
+     border-radius:15px;
+   }
+   
+   .descr {
+     padding-top: 30px;
+     overflow: auto;
+     height: 38vh;
+     flex-basis: 60%;
+   
+   }
+   
+   .card>img:hover{
+     transform: scale(0.95);
+    opacity: 60%;
+   }
+   
+   .footer-wrapper {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: rgb(255, 255, 255);
+     width: 100%;
+     height: 20px;
+     position: fixed;
+     bottom: 0;
+     left: 0;
+     color: var(--col-light);
+     font-family: var(--inner-content);
+     font-size: 1.em;
+     
+   
+   }
+   
+   img {
+     width:200px;
+     max-width: 100%;
+     flex-basis: 40%;
+     margin-right: 10px;
+     border-radius: 7px;
+   }
    
