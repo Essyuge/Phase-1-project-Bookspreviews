@@ -30,6 +30,14 @@ document.addEventListener('DOMContentLoaded',getBooks())
               'Content-Type': 'application/json',
               Accept: "application/json"
             },
+            body: JSON.stringify({
+                "name": book.name.value,
+                "author": book.author.value,
+                 "image":book.image.value,
+                 "subtitle":book.subtitle.value
+        
+              })
+            })
         
     
 	
