@@ -25,4 +25,22 @@ body {
     margin-bottom: 0.5em;
    
   }
-  
+  /* ol {
+  list-style: none;
+  margin: 0 50px;
+} */
+
+.hero {
+    text-align: center;
+    /* margin: 40px; */
+    color: orange;
+    font-size: 60%;
+   }
+   
+   #form {
+     width:30em;
+     height: 3em;
+     font-size: medium;
+     border-radius:15px;
+   }
+   
