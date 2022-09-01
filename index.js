@@ -23,7 +23,13 @@ document.addEventListener('DOMContentLoaded',getBooks())
             })
           })
     }
-    
+    function postBook(book) {
+        fetch('https://silken-sky-comma.glitch.me/books', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              Accept: "application/json"
+            },
         
     
 	
