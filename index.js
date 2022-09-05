@@ -19,12 +19,6 @@ document.addEventListener('DOMContentLoaded',getBooks())
 	
   })
 
-
-
-
-
-
-
 function getBooks(){
     fetch("https://silken-sky-comma.glitch.me/books")
 	.then(response => response.json())
@@ -33,8 +27,6 @@ function getBooks(){
 		})
 	  })
 }
-
-
 
 function postBook(book) {
 	fetch('https://silken-sky-comma.glitch.me/books', {
@@ -58,9 +50,6 @@ function postBook(book) {
 	  })
   }	 
 
-
-
-
   function removeBook(id) {
 	return fetch(`https://silken-sky-comma.glitch.me/books/${id}`,{
 		method: 'Delete',
@@ -73,9 +62,6 @@ function postBook(book) {
 	)
 	
 }
-
-
-
 function renderBook(book){
 	let div=document.createElement('div')
 	div.setAttribute('class', 'card')
@@ -101,9 +87,4 @@ function renderBook(book){
 	removeBook(book.id)
 	
     })
-
 }	 
-      
-        
-    
-	
