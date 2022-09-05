@@ -11,14 +11,11 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  
-  /* color: saddlebrown; */
+ 
 }
 
 header{
-  /*background-color: rgb(180, 158, 180);
-  height: 100%;
-  padding:20px; */
+ 
   margin-top: 1em;
   color: forestgreen;
 
@@ -34,10 +31,7 @@ h1{
 
 
 
-/* ol {
-  list-style: none;
-  margin: 0 50px;
-} */
+
 
 .hero {
  text-align: center;
@@ -64,7 +58,7 @@ form{
 
 .btn{
  background-color: white;
- /* border:1px; */
+
  
 
 }
@@ -77,23 +71,13 @@ form{
 
 }
 
-/* #button {
-  /* width: 7em; */
-  /* height: 5em; */
-  /* font-size: medium; */
-  /* border:1px; */
-  /* border-radius:20px; */
-/* } */ 
-
-/* #button:hover {
-background-color: #fb8b24;
-} */
 
 #results {
   margin-top:26%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+
   
   
 
