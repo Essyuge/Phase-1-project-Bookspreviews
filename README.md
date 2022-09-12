@@ -35,7 +35,7 @@
 
 ## Website link
 
-### URL https://short-evening-shop.glitch.me/
+### view [LIVE] (https://essyuge.github.io/Phase-1-project-Fav-Book/)
 
 ## Technologies Used
 
