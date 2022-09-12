@@ -35,7 +35,7 @@
 
 ## Website link
 
-### view [LIVE] (https://essyuge.github.io/Phase-1-project-Fav-Book/)
+ view [LIVE] (https://essyuge.github.io/Phase-1-project-Fav-Book/):
 
 ## Technologies Used
 
